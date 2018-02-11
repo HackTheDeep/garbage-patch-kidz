@@ -13,6 +13,6 @@ data = {
     "latitudes": latitudes
 }
 
-f = open('particles_2.json', 'w')
+f = open('particles.json', 'w')
 f.write(json.dumps(data))
 f.close()
