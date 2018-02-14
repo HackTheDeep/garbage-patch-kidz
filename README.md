@@ -1,4 +1,4 @@
-# garbage_patch_kids
+# garbage_patch_kidz
 
 ## Environment:
 - [Install OceanParcels](http://oceanparcels.org/#installing-parcels)
